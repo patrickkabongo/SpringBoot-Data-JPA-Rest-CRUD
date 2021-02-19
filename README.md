@@ -1,2 +1,2 @@
 # SpringBoot-Data-JPA-Rest-CRUD
-Spring Boot 2 CRUD
+Creating a CRUD using Spring Java, Spring Data, JPA, REST, Hibernate with PostgreSQL
